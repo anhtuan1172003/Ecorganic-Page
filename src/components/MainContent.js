@@ -23,7 +23,7 @@ export default function MainContent() {
         <Container>
             <Row className="quick-start" sm={2} xs={1} md={4}>
                 <Col>
-                    <img src="./image/guide.jpg"></img>
+                    <img src="guide.jpg"></img>
                     <p>Hướng dẫn</p>
                 </Col>
                 <Col>
