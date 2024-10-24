@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ecorganic-Page/static/css/main.f32b8b74.css",
+    "main.js": "/Ecorganic-Page/static/js/main.76eeaaf1.js",
+    "static/media/bootstrap-icons.woff?": "/Ecorganic-Page/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Ecorganic-Page/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/Ecorganic-Page/index.html",
+    "main.f32b8b74.css.map": "/Ecorganic-Page/static/css/main.f32b8b74.css.map",
+    "main.76eeaaf1.js.map": "/Ecorganic-Page/static/js/main.76eeaaf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f32b8b74.css",
+    "static/js/main.76eeaaf1.js"
+  ]
+}
